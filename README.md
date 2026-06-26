@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-parfum-de-tes-cheveux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Le Parfum De Tes Cheveux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-parfum-de-tes-cheveux/) |
+| **Get License** | [Get a Licensing Quote for Le Parfum De Tes Cheveux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-parfum-de-tes-cheveux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum dans ma caisse, baby, c'est mon addiction
+> Sous les néons violets, t'es ma seule direction
+> Le parfum de tes cheveux, crois-moi, c'est magique
+> Viens plus près de moi, rendons la nuit iconique
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
